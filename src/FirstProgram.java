@@ -10,6 +10,7 @@ public static void main(String args[])
 	b=Scan.nextInt();
 	s=a+b;
 	p=a*b;
+	System.out.println("This is priya's commit");
 	System.out.println("sum="+s);
 	System.out.println("product="+p);			
 }
